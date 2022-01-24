@@ -41,5 +41,5 @@ Hi, I’m <a href="https://www.instagram.com/vitormarx.s/">Vitor Marx</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormarx&layout=compact)](https://github.com/vitormarx)
 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=vitormarx.vitormarx)](https://www.vitormarx.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=vitormarx.vitormarx)](https://github.com/vitormarx)
 
