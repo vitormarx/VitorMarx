@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
 Hi, I’m <a href="https://www.instagram.com/vitormarx.s/">Vitor Marx</a>
-</h3>
+</h1>
 
 ### 🤝 Connect with me:
 <a href="https://www.instagram.com/vitormarx.s/"><img align="left" src="https://raw.githubusercontent.com/vitormarx/vitormarx/main/images/instagram.svg" alt="icon | Instagram" width="40px"/></a>
