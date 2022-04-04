@@ -2,7 +2,7 @@
 Hi, I’m <a href="https://www.instagram.com/vitormarx.s/">Vitor Marx</a>
 </h1>
 
-### 🤝 Connect with me:
+### 🤝 Connect me:
 <a href="https://www.instagram.com/vitormarx.s/"><img align="left" src="https://raw.githubusercontent.com/vitormarx/vitormarx/main/images/instagram.svg" alt="icon | Instagram" width="40px"/></a>
 
 <a href="https://www.linkedin.com/in/vitor-marx-melo-silva-582b16189/"><img align="left" src="https://raw.githubusercontent.com/vitormarx/vitormarx/main/images/linkedin.svg" alt="icon | LinkedIn" width="40px"/></a>
@@ -35,7 +35,7 @@ Hi, I’m <a href="https://www.instagram.com/vitormarx.s/">Vitor Marx</a>
 
 ## 📈 GitHub Stats 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=vitormarx)](https://github.com/vitormarx)
+[![vitormarx’s github stats](https://github-readme-stats.vercel.app/api?username=vitormarx)](https://github.com/vitormarx)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormarx&layout=compact)](https://github.com/vitormarx)
