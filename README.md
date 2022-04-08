@@ -1,45 +1,27 @@
-<h1 align="center">
-Hi, I’m <a href="https://www.instagram.com/vitormarx.s/">Vitor Marx</a>
-</h1>
+## Olá, sou Vitor Marx 
 
-### 🤝 Connect me:
-<a href="https://www.instagram.com/vitormarx.s/"><img align="left" src="https://raw.githubusercontent.com/vitormarx/vitormarx/main/images/instagram.svg" alt="icon | Instagram" width="40px"/></a>
-
-<a href="https://www.linkedin.com/in/vitor-marx-melo-silva-582b16189/"><img align="left" src="https://raw.githubusercontent.com/vitormarx/vitormarx/main/images/linkedin.svg" alt="icon | LinkedIn" width="40px"/></a>
-
-<a href="https://www.youtube.com/channel/UCK5rOPhjIlTy0bRYSlTOwDg/videos"><img align="top" src="https://raw.githubusercontent.com/vitormarx/vitormarx/main/images/YouTube-Logo.wine.svg" alt="icon | YouTube" width="100px"/></a>
-
-
-### 💼 Technical Skills: 
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Matlab](https://img.shields.io/badge/matlab-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
-## 📈 GitHub Stats 
-
-[![vitormarx’s github stats](https://github-readme-stats.vercel.app/api?username=vitormarx)](https://github.com/vitormarx)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormarx&layout=compact)](https://github.com/vitormarx)
-
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=vitormarx.vitormarx)](https://github.com/vitormarx)
-
+<div align="center">
+  <a href="https://github.com/vitormarx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormarx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormarx&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+#  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Vitor-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+  <img align="center" alt="Vitor-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img align="center" alt="Vitor-NGINX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img align="center" alt="Vitor-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+</div>
+  
+#  
+<div> 
+  <a href="https://www.youtube.com/channel/UCK5rOPhjIlTy0bRYSlTOwDg target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/vitormarx.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marxphb@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vitor-marx-melo-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+ 
+</div>
